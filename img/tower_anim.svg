@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="679.94" height="411.558" viewBox="0 0 679.94 411.558" style="">
+ <g id="Group_48" data-name="Group 48" transform="translate(-620.06 -215.683)">
+    <path id="Rectangle_38" data-name="Rectangle 38" width="138.115" height="12.697" transform="translate(640.55 613.545)" fill="none" stroke="#d3d3d3" stroke-miterlimit="10" stroke-width="2" d="M0 0 L138.115 0 L138.115 12.697 L0 12.697 Z" class="NByyPYTD_0"></path>
+    <g id="Group_27" data-name="Group 27" transform="translate(622.206 217.518)">
+      <g id="Group_26" data-name="Group 26">
+        <g id="Group_25" data-name="Group 25">
+          <path id="Path_97" data-name="Path 97" d="M357.227,1886.318l38.717-234.473h39.321l38.717,234.473" transform="translate(-328.325 -1489.7)" fill="none" stroke="#d3d3d3" stroke-miterlimit="10" stroke-width="2" class="NByyPYTD_1"></path>
+          <path id="Path_98" data-name="Path 98" d="M434,1662.039l-98.722-109.2L406,1492.457l-50.036-64.891,39.251-81.073-39.18-81.073-67.689,81.434H462.906l-67.689-81.434-39.18,81.073,39.251,81.073-50.036,64.891,70.721,60.381-98.722,109.2" transform="translate(-288.348 -1265.421)" fill="none" stroke="#d3d3d3" stroke-miterlimit="10" stroke-width="2" class="NByyPYTD_2"></path>
+        </g>
+        <path id="Path_99" data-name="Path 99" d="M288.348,1540.087l67.689-80.595h39.18l67.689,80.595Z" transform="translate(-288.348 -1378.059)" fill="none" stroke="#d3d3d3" stroke-miterlimit="10" stroke-width="2" class="NByyPYTD_3"></path>
+        <path id="Rectangle_41" data-name="Rectangle 41" width="39.18" height="162.145" transform="translate(67.689)" fill="none" stroke="#d3d3d3" stroke-miterlimit="10" stroke-width="2" d="M0 0 L39.18 0 L39.18 162.145 L0 162.145 Z" class="NByyPYTD_4"></path>
+        <path id="Rectangle_42" data-name="Rectangle 42" width="20.512" height="20.086" transform="translate(0 81.434)" fill="none" stroke="#d3d3d3" stroke-miterlimit="10" stroke-width="1" d="M0 0 L20.512 0 L20.512 20.086 L0 20.086 Z" class="NByyPYTD_5"></path>
+        <path id="Rectangle_43" data-name="Rectangle 43" width="20.512" height="20.086" transform="translate(154.046 81.434)" fill="none" stroke="#d3d3d3" stroke-miterlimit="10" stroke-width="1" d="M0 0 L20.512 0 L20.512 20.086 L0 20.086 Z" class="NByyPYTD_6"></path>
+        <path id="Rectangle_44" data-name="Rectangle 44" width="20.512" height="20.925" transform="translate(0 162.028)" fill="none" stroke="#d3d3d3" stroke-miterlimit="10" stroke-width="1" d="M0 0 L20.512 0 L20.512 20.925 L0 20.925 Z" class="NByyPYTD_7"></path>
+        <path id="Rectangle_45" data-name="Rectangle 45" width="20.512" height="20.925" transform="translate(155.087 163.069)" fill="none" stroke="#d3d3d3" stroke-miterlimit="10" stroke-width="1" d="M0 0 L20.512 0 L20.512 20.925 L0 20.925 Z" class="NByyPYTD_8"></path>
+      </g>
+    </g>
+    <path id="Path_100" data-name="Path 100" d="M1112.088,2026.269" transform="translate(-105.209 -1494.93)" fill="#121212" stroke="#d3d3d3" stroke-miterlimit="10" stroke-width="2" class="NByyPYTD_9"></path>
+    <path id="Path_101" data-name="Path 101" d="M704.355,1626.307" transform="translate(137.45 -1247.789)" fill="none" stroke="#d3d3d3" stroke-miterlimit="10" stroke-width="2" class="NByyPYTD_10"></path>
+    <path id="Path_169" data-name="Path 169" d="M679.913,1710.54v28.842h0c0,45.376,42.147,82.16,94.137,82.16h272.13" transform="translate(-47.958 -1294.713)" fill="none" stroke="#3eb1c8" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="7 8" fill-rule="evenodd" class="NByyPYTD_11"></path>
+    <path id="Path_193" data-name="Path 193" d="M679.913,1708.6v30.936c0,34.6,37.675,62.651,84.149,62.651H891.5" transform="translate(106.722 -1287.931)" fill="none" stroke="#3eb1c8" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="7 8" fill-rule="evenodd" class="NByyPYTD_12"></path>
+    <path id="Path_194" data-name="Path 194" d="M0,0,3.725,3.725.03,7.419" transform="translate(628.497 417.53) rotate(-90)" fill="#121212" stroke="#3eb1c8" stroke-miterlimit="10" stroke-width="2" fill-rule="evenodd" class="NByyPYTD_13"></path>
+    <path id="Path_195" data-name="Path 195" d="M0,0,3.725,3.725.03,7.419" transform="translate(783.497 417.53) rotate(-90)" fill="#121212" stroke="#3eb1c8" stroke-miterlimit="10" stroke-width="2" fill-rule="evenodd" class="NByyPYTD_14"></path>
+  </g>
+<style data-made-with="vivus-instant">
+
+.NByyPYTD_0 {
+	stroke-dasharray: 302 304;
+	stroke-dashoffset: 303;
+	animation: NByyPYTD_draw 1333ms ease-in-out 0ms forwards;
+  animation-delay: 7s
+}
+
+.NByyPYTD_1 {
+	stroke-dasharray: 515 517;
+	stroke-dashoffset: 516;
+	animation: NByyPYTD_draw 1333ms ease-in-out 47ms forwards;
+  animation-delay: 7s
+}
+
+.NByyPYTD_2 {
+	stroke-dasharray: 1391 1393;
+	stroke-dashoffset: 1392;
+	animation: NByyPYTD_draw 1333ms ease-in-out 95ms forwards;
+  animation-delay: 7s
+}
+
+.NByyPYTD_3 {
+	stroke-dasharray: 425 427;
+	stroke-dashoffset: 426;
+	animation: NByyPYTD_draw 1333ms ease-in-out 142ms forwards;
+  animation-delay: 7s
+}
+
+.NByyPYTD_4 {
+	stroke-dasharray: 403 405;
+	stroke-dashoffset: 404;
+	animation: NByyPYTD_draw 1333ms ease-in-out 190ms forwards;
+  animation-delay: 7s
+}
+
+.NByyPYTD_5 {
+	stroke-dasharray: 82 84;
+	stroke-dashoffset: 83;
+	animation: NByyPYTD_draw 1333ms ease-in-out 238ms forwards;
+  animation-delay: 7s
+}
+
+.NByyPYTD_6 {
+	stroke-dasharray: 82 84;
+	stroke-dashoffset: 83;
+	animation: NByyPYTD_draw 1333ms ease-in-out 285ms forwards;
+  animation-delay: 7s
+}
+
+.NByyPYTD_7 {
+	stroke-dasharray: 83 85;
+	stroke-dashoffset: 84;
+	animation: NByyPYTD_draw 1333ms ease-in-out 333ms forwards;
+  animation-delay: 7s
+}
+
+.NByyPYTD_8 {
+	stroke-dasharray: 83 85;
+	stroke-dashoffset: 84;
+	animation: NByyPYTD_draw 1333ms ease-in-out 380ms forwards;
+  animation-delay: 7s
+}
+
+.NByyPYTD_9 {
+	stroke-dasharray: 0 2;
+	stroke-dashoffset: 1;
+	animation: NByyPYTD_draw 1333ms ease-in-out 428ms forwards;
+  animation-delay: 7s
+}
+
+.NByyPYTD_10 {
+	stroke-dasharray: 0 2;
+	stroke-dashoffset: 1;
+	animation: NByyPYTD_draw 1333ms ease-in-out 476ms forwards;
+  animation-delay: 7s
+}
+
+.NByyPYTD_11 {
+	stroke-dasharray: 440 442;
+	stroke-dashoffset: 441;
+	animation: NByyPYTD_draw 1333ms ease-in-out 523ms forwards;
+  animation-delay: 7s
+}
+
+.NByyPYTD_12 {
+	stroke-dasharray: 275 277;
+	stroke-dashoffset: 276;
+	animation: NByyPYTD_draw 1333ms ease-in-out 571ms forwards;
+  animation-delay: 7s
+}
+
+.NByyPYTD_13 {
+	stroke-dasharray: 11 13;
+	stroke-dashoffset: 12;
+	animation: NByyPYTD_draw 1333ms ease-in-out 619ms forwards;
+  animation-delay: 7s
+}
+
+.NByyPYTD_14 {
+	stroke-dasharray: 11 13;
+	stroke-dashoffset: 12;
+	animation: NByyPYTD_draw 1333ms ease-in-out 666ms forwards;
+  animation-delay: 7s
+}
+
+@keyframes NByyPYTD_draw {
+	100% {
+		stroke-dashoffset: 0;
+	}
+}
+
+@keyframes NByyPYTD_fade {
+	0% {
+		stroke-opacity: 1;
+	}
+	93.54838709677419% {
+		stroke-opacity: 1;
+	}
+	100% {
+		stroke-opacity: 0;
+	}
+}
+
+
+</style></svg>

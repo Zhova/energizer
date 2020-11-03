@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="573.873" height="507.329" viewBox="0 0 573.873 507.329" style="">
+    <g id="Group_47" data-name="Group 47" transform="translate(-726.127 -120.912)">
+
+      <path id="Path_125" data-name="Path 125" d="M1072.982,1984.719l-4.141,4.141,4.107,4.108" transform="translate(65.988 -1425.08)" fill="none" stroke="#3eb1c8" stroke-miterlimit="10" stroke-width="2" fill-rule="evenodd" class="tXsAIraX_0"></path>
+      <path id="Path_136" data-name="Path 136" d="M550.068,459.247l104.621-2.82a26.335,26.335,0,0,1,26.335,26.335h0A26.335,26.335,0,0,1,654.689,509.1H611.97" transform="translate(524.048 55.046)" fill="none" stroke="#3eb1c8" stroke-miterlimit="10" stroke-width="2" stroke-dasharray="7 8" fill-rule="evenodd" class="tXsAIraX_1"></path>
+      <path id="Path_172" data-name="Path 172" d="M280.794,205.846a53.489,53.489,0,0,0-26.106,6.761,47.41,47.41,0,0,1,0,93.945,53.736,53.736,0,1,0,26.106-100.706Z" transform="translate(1154.316 317.049) rotate(158)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1" class="tXsAIraX_2"></path>
+    </g>
+<style data-made-with="vivus-instant">
+.tXsAIraX_0 {
+	stroke-dasharray: 12 14;
+	stroke-dashoffset: 13;
+	animation: tXsAIraX_draw 2000ms linear 0ms forwards;
+  animation-delay: 5s
+}
+
+.tXsAIraX_1 {
+	stroke-dasharray: 231 233;
+	stroke-dashoffset: 232;
+	animation: tXsAIraX_draw 2000ms linear 500ms forwards;
+  animation-delay: 5s
+}
+
+.tXsAIraX_2 {
+	stroke-dasharray: 360 362;
+	stroke-dashoffset: 361;
+	animation: tXsAIraX_draw 2000ms linear 1000ms forwards;
+  animation-delay: 5s
+}
+
+@keyframes tXsAIraX_draw {
+	40% {
+		stroke-dashoffset: 0;
+	}
+  70% {
+		stroke-dashoffset: 0;
+	}
+}
+
+@keyframes tXsAIraX_fade {
+	0% {
+		stroke-opacity: 1;
+	}
+	94.44444444444444% {
+		stroke-opacity: 1;
+	}
+	100% {
+		stroke-opacity: 0;
+	}
+}
+
+</style></svg>
